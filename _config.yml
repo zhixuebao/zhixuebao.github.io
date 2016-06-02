@@ -1,0 +1,58 @@
+# Welcome to Jekyll!
+#
+
+# Site settings
+title: Das-Projekt-Z | 支學寶
+description: |
+    支学宝致力于打造成国内知名的课外辅导、教育培训信息及交易平台；
+    给用户以优质、优惠、便捷的教育服务，家长依赖客观公正的评价，便捷的流程为孩子选择优秀的老师和培训机构及寻求互动式问题解决方案。支学宝-让教育变的更简单！
+owner: labbet molnplus # or company name
+first_published: 2016 # if migrating another site, the year of your first publish
+email: wang.hu.molnplus@gmail.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+social:
+  twitter: https://twitter.com/huWANGplus
+  github: https://github.com/<username>
+  linkedin-square: https://linkedin.com/in/<username>
+  facebook-official: https://facebook.com/<username>
+  google-plus-square: https://plus.google.com/u/0/+<username>
+  #email: /contact/
+  #flickr:
+  #instagram:
+  #youtube-square:
+  #spotify:
+  #stack-overflow:
+  #vimeo:
+  #reddit:
+  #stubleupon:
+  #delicious:
+  #pied-piper:
+  #digg:
+  #soundcloud:
+  #deviantart:
+  #angellist:
+  #tumblr-square:
+  #stackexchange:
+  #weibo:
+  #trello:
+  #foursquare:
+  #linux:
+  #bitbucket-square:
+  #vk:
+  #slack:
+  #vine:
+  #weixin:
+  #yelp:
+  #skyatlas:
+  #leanpub:
+  #connectdevelop:
+  #ils:
+  #forumbee:
+  #tripadvisor:
+  #amazon:
+
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed
